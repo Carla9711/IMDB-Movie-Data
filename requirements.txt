@@ -1,0 +1,23 @@
+Part 1:
+* Overview/Data Dictionary: https://www.imdb.com/interfaces/
+* Downloads page: https://datasets.imdbws.com/
+
+Part 2:
+
+Signing Up for an API Key
+
+* Sign up for a free TMDB account: https://www.themoviedb.org/
+	- Click the Join TMDB button on the top-right of the page.
+	- Create a username and password and then log in
+
+* Click on your Profile in the top-right corner of the website where you logged in and open your Profile Settings
+* Click API on the sidebar of the Settings Page.
+* Then "click here" under "Request an API Key
+* You will be asked, "What type of API key do you wish to register?". Select Developer and approve terms of use.
+* You will need to fill out the requested information. 
+* Once you have submitted this information, you will be taken to a page where you will see your API Key (v3 auth)
+
+Saving your API-Key.
+
+* Take note of your "API Key (v3 auth)".
+	- Save this key in a new .json file in a ".secret" folder. 
